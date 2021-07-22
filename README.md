@@ -5,7 +5,7 @@
 บริษัท เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer 
 จัดจำหน่ายและให้บริการ Software ได้แก่
 
-1. โปรแกรม Clinic | www.apsth.com 
+1. โปรแกรม Clinic on Cloud | www.apsth.com 
 2. ศูนย์รวมโปรโมชั่น Clinic | www.clinicpro.app
 3. รับพัฒนา​และออกแบบระบบ​ทุกรูปแบบ​ | www.apsth.app
 
