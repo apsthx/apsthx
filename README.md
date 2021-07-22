@@ -7,7 +7,7 @@
 
 1. โปรแกรม Clinic on Cloud | www.apsth.com 
 2. ศูนย์รวมโปรโมชั่น Clinic | www.clinicpro.app
-3. รับพัฒนา​และออกแบบระบบ​ทุกรูปแบบ​ | www.apsth.app
+3. รับเขียนระบบ | รับเขียนโปรแกรม | รับทำ แอพพลิเคชั่น ทุกรูปแบบ | www.apsth.app
 
 Skills: VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
 
