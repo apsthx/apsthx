@@ -1,6 +1,6 @@
 ### I Am 👋, Prasan Srisopa
 #### CEO and Programmer Team Leader
-![CEO and Programmer Team Leader](https://media-exp3.licdn.com/dms/image/C5616AQH4YhUgHULCaQ/profile-displaybackgroundimage-shrink_200_800/0/1623999296606?e=1632355200&v=beta&t=6cMwd0xIrkPWVXBTaFxVn5qCrINDpNWTiViAVM5-7LQ)
+![CEO and Programmer Team Leader](https://obs.line-scdn.net/hqEB_RRg0MmtOSiFlHRw1EgM4cF1QFWw8RkZnDFogc15WEWs6Q0BpWV8gdV1aU2hoSkk0Dlkj/m800x1200)
 
 บริษัท เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer 
 จัดจำหน่ายและให้บริการ Software ได้แก่
