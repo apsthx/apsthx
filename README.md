@@ -1,6 +1,5 @@
 ### I Am 👋, Prasan Srisopa
-#### CEO and Programmer Team Leader
-![CEO and Programmer Team Leader]([https://www.apsth.com/our-team.html])
+#### ![CEO and Programmer Team Leader]([https://www.apsth.com/our-team.html])
 
 <p>
     <img width="300" src="[/img/icon.png](https://www.apsth.com/assets/video/app.png)" alt="โปรแกรม คลินิก APS">
