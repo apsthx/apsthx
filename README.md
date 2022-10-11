@@ -12,7 +12,7 @@
 
 Skills: VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
 
-[<img src='https://www.apsth.com/assets/video/app.png' alt='apsth' height='100%'>](https://www.apsth.com)
+[<img src='https://www.apsth.com/assets/img/screenshots/desktop/v31.png' alt='apsth' height='100%'>](https://www.apsth.com)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apsth456)](https://github.com/ryo-ma/github-profile-trophy)
