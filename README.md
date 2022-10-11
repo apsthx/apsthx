@@ -12,8 +12,7 @@
 
 Skills: VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
 
-
-[<img src='[https://image.flaticon.com/icons/png/512/733/733553.png](https://www.apsth.com/assets/video/app.png)' alt='โปรแกรม คลินิก APS'>](https://github.com/apsth456)
+[<img src='https://www.apsth.com/assets/video/app.png' alt='apsth' height='40'>](https://www.apsth.com)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=apsth456)](https://github.com/ryo-ma/github-profile-trophy)
