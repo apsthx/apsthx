@@ -3,12 +3,15 @@
 [https://www.apsth.com/our-team.html]
 
 
-บริษัท เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer 
+บริษัท เอพีเอส ทีเอช จำกัด ( APSTH ) เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer 
 จัดจำหน่ายและให้บริการ Software ได้แก่
 
-1. โปรแกรม Clinic on Cloud | www.apsth.com 
+1. โปรแกรม คลินิก APS Cloud Platform | www.apsth.com 
 2. ศูนย์รวมโปรโมชั่น Clinic | www.clinicpro.app
 3. รับเขียนระบบ | รับเขียนโปรแกรม | รับทำ แอพพลิเคชั่น ทุกรูปแบบ | www.apsth.app
+
+LineID: @apsth
+Email: apsth456@gmail.com
 
 Skills: VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
 
