@@ -19,4 +19,4 @@ Skills: VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=apsth456)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=apsth456)](https://github.com/ryo-ma/github-profile-trophy) 
