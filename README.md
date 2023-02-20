@@ -2,6 +2,9 @@
 #### ![CEO and Programmer Team Leader] 
 [https://www.apsth.com/our-team.html]
 
+APS_X Platform
+For Hospital, Clinic, Spa, Wellness
+เหมาะสำหรับ Hospital, Clinic, Spa ด้านความงาม คลินิกเฉพาะทาง คลินิกเวชกรรม คลินิกทั่วไป คลินิกพยาบาลผดุงครรภ์ คลินิกกายภาพบำบัด คลินิกแพทย์แผนไทย-จีน คลินิกอายุรกรรม คลินิกแม่และเด็ก คลินิกบําบัดยาเสพติด Wellness Clinic.
 
 บริษัท เอพีเอส ทีเอช จำกัด ( APSTH ) เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer 
 จัดจำหน่ายและให้บริการ Software ได้แก่
