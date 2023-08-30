@@ -18,7 +18,7 @@ Email: apsth456@gmail.com
 
 Tel: 0981-816769
 
-Skills: VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
+Skills: GO / VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
 
 [<img src='https://www.apsth.com/assets/img/apsx.png' alt='apsth'>](https://www.apsth.com)
 
