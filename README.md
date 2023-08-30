@@ -1,6 +1,5 @@
 ### I Am 👋, Prasan Srisopa
 #### ![CEO and Programmer Team Leader] 
-[https://www.apsth.com/our-team.html]
 
 APS_X Platform
 For Hospital, Clinic, Spa, Wellness
