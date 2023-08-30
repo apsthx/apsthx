@@ -11,7 +11,6 @@ For Hospital, Clinic, Spa, Wellness
 
 1. โปรแกรม คลินิก APS Cloud Platform | www.apsth.com 
 2. ศูนย์รวมโปรโมชั่น Clinic | www.clinicpro.app
-3. รับเขียนระบบ | รับเขียนโปรแกรม | รับทำ แอพพลิเคชั่น ทุกรูปแบบ | www.apsth.app
 
 LineID: @apsth
 
