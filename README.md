@@ -10,8 +10,6 @@ For Hospital, Clinic, Spa, Wellness, ศูนย์ดูแลผู้สู�
 
 1.โปรแกรม คลินิก APS | www.apsth.com
 
-2.ศูนย์รวมโปรโมชั่น Clinic | www.clinicpro.app
-
 LineID: @apsth
 
 Email: apsth456@gmail.com
